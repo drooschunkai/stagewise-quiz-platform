@@ -37,6 +37,13 @@ The StageWise Quiz Platform is an interactive web application designed to provid
 ## Usage
 To use the application, simply register or log in, create a quiz, and start taking quizzes. You can also view your scores and compete with friends.
 
+### Accessing the App
+- Navigate to `http://localhost:3000` after starting the server.
+- Sign in using your email address and password.
+
+### Contacting the School Administrator
+- If you don't have an account, click on "Contact your school administrator" on the sign-in page to reach out for assistance.
+
 ## Contributing
 Contributions are welcome! Please follow the standard GitHub workflow for contributing to this project.
 
